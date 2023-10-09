@@ -17,8 +17,13 @@ if password == "hoover":
     print("Здравствуйте, рыцарь", name)         #долой Макнамару
     
 elif password == "noncr":
+
     print("Здравствуйте, паладин", name)
+    
 elif password == "gelios":
+
     print("Здравствуйте, старейшина", name)          #Элайджа вперёд
+    
 else:
+
     print("Здравствуйте, послушник", name)
